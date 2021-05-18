@@ -1,6 +1,4 @@
-# adda Social Site Template
-Adda  is a social app
-
+# Adda Social App
 ![Libre](./adda.png)
 
 One Paragraph of project description goes here
